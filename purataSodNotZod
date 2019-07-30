@@ -133,10 +133,8 @@ public class newSodNotZod6
 			{
 				itemCounter = RESET_VALUE;
 				costumerTotal = RESET_VALUE;
-				menuSelection = validateMainMenu(input);
-
 			}
-			
+			menuSelection = validateMainMenu(input);
 			
 		}// end of while loop
 		if (grandTotal >0.0)

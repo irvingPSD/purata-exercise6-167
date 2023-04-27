@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class newSodNotZod6 
 {
-	// DECLARE cLASS CONSATANTS
+	// DECLARE cLASS CONSTANTS
 	public static final double DISCOUNT_RATE_MEMBER = .15;
 	public static final double DISCOUNT_RATE_SENIOR = .25;
 	public static final double DISCOUNT_RATE_NONE = 0.0;
